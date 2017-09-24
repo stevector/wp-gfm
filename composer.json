@@ -1,6 +1,7 @@
 {
   "name": "makotokw/wp-gfm",
   "license": "MIT",
+  "type": "wordpress-plugin",
   "authors": [
     {
       "name": "Makoto Kawasaki",
